@@ -192,7 +192,7 @@ input{
     padding-right: 20px;
 }
 
-@media (max-width: 800px){
+@media (max-width: 960px){
     .top .img{
         height: 18px;        
     }
